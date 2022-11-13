@@ -1,13 +1,5 @@
 #!/usr/bin/env python3
 
-# Copyright (C) 2022 Andy Dustin <andy.dustin@gmail.com>
-# This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-# This unofficial tool checks for your system against published CIS Hardening Benchmarks and offers an indication of your system's preparedness for compliance to the official standard.
-
-# You can obtain a copy of the CIS Benchmarks from https://www.cisecurity.org/cis-benchmarks/
-# Use of the CIS Benchmarks are subject to the Terms of Use for Non-Member CIS Products - https://www.cisecurity.org/terms-of-use-for-non-member-cis-products
 
 __version__ = '0.20.0-alpha.3'
 

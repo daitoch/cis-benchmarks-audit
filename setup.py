@@ -7,8 +7,8 @@ from cis_audit import __version__
 setuptools.setup(
     name="cis-benchmarks-audit",
     version=__version__,
-    author="Andy Dustin",
-    author_email="andy.dustin@gmail.com",
+    author="Farhan Rauf",
+    author_email="farhanch101@gmail.com",
     description="Check systems conformance to CIS Hardening benchmarks",
     packages=setuptools.find_packages(),
     py_modules=['cis_audit'],
